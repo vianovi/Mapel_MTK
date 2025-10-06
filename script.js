@@ -7,9 +7,9 @@ const links = {
 
   // Daftar URL tujuan dengan kata kunci
     "simulasi": "https://docs.google.com/forms/d/e/1FAIpQLSee8sYM0UhNvIzGp1NSG6pLJsmkw-dlcrTKewDHwCYIbvUVcw/viewform?usp=dialog",
-    "paket1": "https://forms.gle/Ez6P96VvWFhU8FbZ6",
-    "paket2": "https://forms.gle/9k7sxdaT8Xryk7BW6",
-    "paket3": "https://forms.gle/7yC6aJhP1NBWh81B7",
+    "paket1": "https://forms.gle/ztmXCws8ygoKKXeV7",
+    "paket2": "https://forms.gle/GBrretHyhseyCySbA",
+    "paket3": "https://forms.gle/EECeevU4WWbKd1HQ7",
 };
 
 
