@@ -3,7 +3,7 @@
 // ==================================================================
 const links = {
   // LINK DEFAULT WAJIB ADA. Arahkan ini ke URL halaman error Anda.
-    "default": "error.https://vianovi.github.io/Default_pages/",
+    "default": "https://vianovi.github.io/Default_pages/indeex.html",
 
   // Daftar URL tujuan dengan kata kunci
     "simulasi": "https://docs.google.com/forms/d/e/1FAIpQLSee8sYM0UhNvIzGp1NSG6pLJsmkw-dlcrTKewDHwCYIbvUVcw/viewform?usp=dialog",
@@ -25,7 +25,7 @@ function getParam(name) {
 const target = getParam("to");
 
 // Tentukan URL tujuan (LOGIKA INTI)
-const destination = links[target] || links["deafault"];
+const destination = links[target] || links["default"];
 
 // Update link manual (tombol) agar sesuai dengan tujuan akhir
 document.getElementById('manual-link').href = destination;
